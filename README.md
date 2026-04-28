@@ -6,6 +6,7 @@ This script tracks outgoing network traffic on Unix-like systems.
 
 -   **sh** (POSIX shell)
 -   **awk** Text parsing language (usually preinstalled on Unix-like systems)
+-   **jq** JSON processor
 
 ## Installation
 
